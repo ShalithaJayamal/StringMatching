@@ -1,0 +1,9 @@
+>find cat
+CAT
+>find 10 C's
+CCCCCCCCCC
+>find 2 cats
+CATCAT
+>find 5 cats seperated by g s
+CATGCATGCATGCATGCAT
+>EOF

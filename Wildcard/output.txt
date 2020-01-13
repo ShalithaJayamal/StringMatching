@@ -1,0 +1,18 @@
+"xyzCATpqr", "CAT" => [3]
+"xyzCATpqr", "C_T" => [3]
+
+"cogwrgaccag", "cog" => [0]
+"cogwrgaccag", "cag" => [8]
+"cogwrgaccag", "c_g" => [0, 8]
+"cogwrgaccag", "c__g" => [7]
+
+"cogwrgaccag", "pqr" => []
+"cogwrgaccag", "p_r" => []
+
+"cogwrgaccag", "" 	=> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+"", "" 			=> [0]
+"", "abc" 		=> []
+
+"winter is coming", "_ _" => [5, 8]
+
+"Hello World", "_" => [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
